@@ -1,0 +1,8 @@
+maelk	 	 	20 210.0 178.5
+smoer 7 110.25 110.25
+franskbroed	 	 	12 300.0 255.0
+rugbroed 8 142.0 142.0
+yoghurt	 	 	18 220.5 187.42499999999998
+Total uden rabat: 982.75
+Total med rabat: 873.175
+Total rabat: 109.57500000000005
